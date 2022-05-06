@@ -28,3 +28,6 @@ coverage_report*
 .env*/
 .venv*/
 agents_mask/
+
+docs/
+docs_built/
